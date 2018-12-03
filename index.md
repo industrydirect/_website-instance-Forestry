@@ -1,6 +1,6 @@
 ---
 title: _intro
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/12/03/action-ai-android-595804.jpg"
 layout: landing-page
 heading: "We are thinking about information technology.\U0001F4F1✏️"
 partners:
