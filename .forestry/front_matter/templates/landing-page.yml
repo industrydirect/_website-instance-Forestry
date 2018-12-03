@@ -80,4 +80,5 @@ fields:
   hidden: true
   default: home
 pages:
+- landing_pages/restaurant-industry-tech.md
 - index.md
